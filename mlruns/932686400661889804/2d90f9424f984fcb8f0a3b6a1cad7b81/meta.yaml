@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/932686400661889804/2d90f9424f984fcb8f0a3b6a1cad7b81/artifacts
+end_time: 1741635115436
+entry_point_name: ''
+experiment_id: '932686400661889804'
+lifecycle_stage: active
+run_id: 2d90f9424f984fcb8f0a3b6a1cad7b81
+run_name: XGBClassifier
+run_uuid: 2d90f9424f984fcb8f0a3b6a1cad7b81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741635113042
+status: 3
+tags: []
+user_id: pujak

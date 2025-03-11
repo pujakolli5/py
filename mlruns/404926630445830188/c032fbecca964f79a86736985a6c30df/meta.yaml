@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/code/MLOPS/mlflow/mlruns/404926630445830188/c032fbecca964f79a86736985a6c30df/artifacts
+end_time: 1741633644068
+entry_point_name: ''
+experiment_id: '404926630445830188'
+lifecycle_stage: active
+run_id: c032fbecca964f79a86736985a6c30df
+run_name: gaudy-smelt-521
+run_uuid: c032fbecca964f79a86736985a6c30df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741633639303
+status: 3
+tags: []
+user_id: pujak

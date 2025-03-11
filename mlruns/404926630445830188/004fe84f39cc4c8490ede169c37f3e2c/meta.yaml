@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/code/MLOPS/mlflow/mlruns/404926630445830188/004fe84f39cc4c8490ede169c37f3e2c/artifacts
+end_time: 1741633646077
+entry_point_name: ''
+experiment_id: '404926630445830188'
+lifecycle_stage: active
+run_id: 004fe84f39cc4c8490ede169c37f3e2c
+run_name: bouncy-hawk-30
+run_uuid: 004fe84f39cc4c8490ede169c37f3e2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741633644117
+status: 3
+tags: []
+user_id: pujak

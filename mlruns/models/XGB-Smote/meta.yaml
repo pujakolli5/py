@@ -1,0 +1,8 @@
+aliases:
+  challenger: '3'
+creation_timestamp: 1741635806400
+description: 'This model was trained based on MLOPs tutorial from codebasics.
+
+  '
+last_updated_timestamp: 1741696312659
+name: XGB-Smote
